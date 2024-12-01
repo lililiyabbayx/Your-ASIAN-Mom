@@ -2,7 +2,7 @@
 
 
 ![App Screenshot](Screenshot%202024-12-01%20200515.png)
-
+![App Screenshot](Screenshot%2024-12-01%202525.png)
 ...
 
 **Project Overview:**
