@@ -1,5 +1,10 @@
 # YourAsianMom 
 
+
+![App Screenshot](Screenshot%202024-12-01%20200515.png)
+
+...
+
 **Project Overview:**
 
 As an undergrad student living far from home, I often find it challenging to keep up with the small daily tasks that I would typically rely on my mom to remind me about. While I’m lucky enough to live with my parents, many students live away from their families, and sometimes it's hard to stay motivated. We often miss the gentle (and sometimes not-so-gentle) reminders and pushes from mom. So, I came up with the idea of creating a humorous AI-powered app that mimics the sweet scolding, advice, and productivity nudges we all know and love (or maybe dread) from our moms. 
