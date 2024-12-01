@@ -11,9 +11,9 @@
 ...
 
 **Project Overview:**
-#YO my First ever hackathon hosted BY Audrey Chen
+**YO my First ever hackathon hosted BY Audrey Chen
 to evaluate my project idea used @nosu.io --> https://www.nosu.io/feedback/c0013009-281c-401d-856a-e7e8e3e6f3bf 
-and freakin lifesaver @pear.ai
+and freakin lifesaver @pear.ai**
 
 
 As an undergrad student living far from home, I often find it challenging to keep up with the small daily tasks that I would typically rely on my mom to remind me about. While I’m lucky enough to live with my parents, many students live away from their families, and sometimes it's hard to stay motivated. We often miss the gentle (and sometimes not-so-gentle) reminders and pushes from mom. So, I came up with the idea of creating a humorous AI-powered app that mimics the sweet scolding, advice, and productivity nudges we all know and love (or maybe dread) from our moms. 
