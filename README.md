@@ -75,9 +75,8 @@ I hope you enjoy the prototype, and I plan to continue working on a fully functi
 ## Tech Stack
 
 - **Frontend:** JavaScript, React, Next.js, Firebase
-- **Backend:** Firebase Functions (if needed for backend logic)
+- **Backend:** Firebase 
 - **AI Integration:** GROQ API for AI Agent
-- **Other:** Firebase Authentication for user management
 
 ---
 
