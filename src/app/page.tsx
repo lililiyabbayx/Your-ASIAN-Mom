@@ -1,3 +1,4 @@
+"use client";
 import "./globals.css";
 import { Suspense } from "react";
 import Layout from "../../src/app/components/Layout";
