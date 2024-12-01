@@ -1,4 +1,4 @@
-# YourAsianMom (Respectful & Funny)
+# YourAsianMom 
 
 **Project Overview:**
 
