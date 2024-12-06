@@ -1,6 +1,7 @@
 
 # YourAsianMom brainrot jia.seed hackathon
-# Fun fact the readme was written by PEARAI 
+# Used PEARAI to assist me throughout the project and guess what 
+#  the readme was written by PEARAI 
 
 ![App Screenshot](Screenshot%202024-12-01%20200515.png)
 
